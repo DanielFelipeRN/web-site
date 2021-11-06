@@ -10,6 +10,10 @@ body{
   width: 100%;
   height: 100%;
 }
+.container h1:hover{
+  font-size: 10px;
+  color: pink;
+}
 .container .nav ul{
   list-style-type: none;
   margin: 0;
